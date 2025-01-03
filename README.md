@@ -3,7 +3,8 @@
 <br><br>
 
 # 💫 About Me:
-🔭 I’m currently doing engineering<br>👯 I’m looking to collaborate on projects that i'm interested in<br>🤝 I appreciate contributing in my projects<br>🌱 I’m currently learning blockchain<br>💬 Feel freeAsk me about anything related to me or my project<br>
+🔭 I’m currently doing engineering<br>👯 I’m looking to collaborate on projects that i'm interested in<br>🤝 I appreciate contributing in my projects<br>🌱 I’m currently learning blockchain<br>💬 Feel freeAsk me about anything related to me or my project<br> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/dad5d025-91c3-43b9-9a3d-1c9266f77cb7" width="500">
+<br><br>
 
 
 ## 🌐 Socials:
@@ -19,7 +20,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=subhayudas&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
+<br><br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
