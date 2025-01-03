@@ -2,7 +2,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br><br>
 
-
 # 💫 About Me:
 🔭 I’m currently doing engineering<br>👯 I’m looking to collaborate on projects that i'm interested in<br>🤝 I appreciate contributing in my projects<br>🌱 I’m currently learning blockchain<br>💬 Feel freeAsk me about anything related to me or my project<br>
 
@@ -19,6 +18,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=subhayudas&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
