@@ -1,3 +1,8 @@
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
+
+
 # 💫 About Me:
 🔭 I’m currently doing engineering<br>👯 I’m looking to collaborate on projects that i'm interested in<br>🤝 I appreciate contributing in my projects<br>🌱 I’m currently learning blockchain<br>💬 Feel freeAsk me about anything related to me or my project<br>
 
