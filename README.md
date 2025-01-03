@@ -3,8 +3,9 @@
 <br><br>
 
 # 💫 About Me:
-🔭 I’m currently doing engineering<br>👯 I’m looking to collaborate on projects that i'm interested in<br>🤝 I appreciate contributing in my projects<br>🌱 I’m currently learning blockchain<br>💬 Feel freeAsk me about anything related to me or my project  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/dad5d025-91c3-43b9-9a3d-1c9266f77cb7" width="200"><br> 
-<br><br>
+🔭 I’m currently doing engineering<br>👯 I’m looking to collaborate on projects that i'm interested in<br>🤝 I appreciate contributing in my projects<br>🌱 I’m currently learning blockchain<br>💬 Feel freeAsk me about anything related to me or my project  <br> 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/dad5d025-91c3-43b9-9a3d-1c9266f77cb7" width="200"><br>
+
 
 
 ## 🌐 Socials:
