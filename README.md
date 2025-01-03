@@ -24,6 +24,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=subhayudas&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=subhayudas&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="600">
+<br>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=subhayudas&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
